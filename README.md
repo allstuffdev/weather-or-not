@@ -2,4 +2,4 @@
 
 ## Technologies
 
-Ruby
+Ruby on Rails
